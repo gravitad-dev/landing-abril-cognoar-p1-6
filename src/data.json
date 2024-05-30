@@ -1,0 +1,119 @@
+{
+  "header": {
+    "pageName": ["L", "IGHT"],
+    "links": [
+      { "title": "Mission", "url": "#about" },
+      { "title": "Projects", "url": "#projects" },
+      { "title": "Company", "url": "#company" },
+      { "title": "Testers", "url": "#testers" },
+      {
+        "title": "Blog",
+        "url": "https://cognoar.blog.sistemasvirtuales.net"
+      }
+    ],
+    "button": {
+      "text": "CONTACT US",
+      "url": "#contact"
+    }
+  },
+  "section1": {
+    "title": ["COGNOAR:", "Connecting worlds to always remember"],
+    "text": "Discover a new dimension in cognitive care with Cognoar. Our augmented reality content platform offers a unique experience, designed specifically to stimulate minds affected by Alzheimer's. With Cognoar, every interaction is an opportunity to enrich life and mind.",
+    "textButton": "Get it Now",
+    "textButton2": "Explore Device",
+    "images": ["img/1.png", "img/1.png"],
+    "imageContent": {
+      "title": "Cinematic Virtual Reality",
+      "text": "Let’s be the best for more real and effective results and ready to explore the limitless world that we have prepared for you."
+    },
+    "people": {
+      "images": ["people1.jpg", "people2.png", "people3.jpg", "people4.jpg"],
+      "text": "400k people online"
+    }
+  },
+  "section2": {
+    "id": "about",
+    "images": ["section2person1.png", "section2person2.png"],
+    "content": {
+      "title": "MISSION",
+      "text": "Our mission is to provide effective and accessible tools that promote independence and well-being for people with Alzheimer's, using cutting-edge technology and science-backed methods.",
+      "textButton": "Get it Now"
+    }
+  },
+  "section3": {
+    "id": "projects",
+    "title": "PROJECT",
+    "cards": [
+      {
+        "image": "img/3.png",
+        "title": "Cognoar: Augmented Reality Content Platform for Alzheimer's Cognitive Stimulation",
+        "text": "This project aims to develop a platform that utilizes augmented reality technology to provide cognitive stimulation for individuals with Alzheimer's disease."
+      }
+    ]
+  },
+  "section4": {
+    "id": "company",
+    "images": ["section2person1.png", "section2person2.png"],
+    "content": {
+      "title": "Why trust us",
+      "subtitle": "",
+      "text": "Trust Cognoar because we are supported by an interdisciplinary team of highly trained professionals committed to the well-being of our users. Additionally, our solutions are designed to the highest quality and are backed by rigorous scientific research.",
+      "textButton": "Get it Now"
+    }
+  },
+  "section5": {
+    "id": "testers",
+    "title": "Those who have trusted us",
+    "text": "We've been fortunate to collaborate with leading health institutions, senior care facilities, and compassionate families and caregivers dedicated to addressing Alzheimer's challenges. Our partners include research centers, nursing homes, and non-profits supporting dementia patients.",
+    "cards": [
+      {
+        "head": ["", "COGNOAR"],
+        "quote": "We're revolutionizing Alzheimer's care with our augmented reality platform, fostering memory, cognition, and emotional connections.",
+        "clienteImg": "client1.png",
+        "name": "Denny Hilguston",
+        "email": "@denny.hill"
+      },
+      {
+        "head": ["", "COGNOAR"],
+        "quote": "We're empowering Alzheimer's minds with our immersive augmented reality platform, fostering cognition and emotional well-being. Join us in shaping a future where cognitive care means hope and possibility.",
+        "clienteImg": "client2.png",
+        "name": "Vani Pandey",
+        "email": "@vani.pandey"
+      },
+      {
+        "head": ["", "COGNOAR"],
+        "quote": "Cognoar, an AR content platform, revolutionizes cognitive care for Alzheimer's patients, offering a unique, effective experience shaped by years of research.",
+        "clienteImg": "client3.png",
+        "name": "milly Singh",
+        "email": "@milly.singh"
+      }
+    ]
+  },
+  "section6": {
+    "id": "contact",
+    "title": ["Contact", "us!"],
+    "text": "Discover a new dimension in cognitive care with Cognoar.",
+    "textButton": "Contact",
+    "email": "light@mail.com"
+  },
+  "banner": {
+    "title": "At the forefront of innovation is Cognoar. Our augmented reality content platform is redefining Alzheimer's care.",
+    "textButton": "Get started"
+  },
+  "footer": {
+    "brand": {
+      "title": "COGNOAR",
+      "text": "Care with Compassion, Care with Cognoar At Cognoar, we understand the importance of caring with empathy and understanding. Our augmented reality content platform not only stimulates cognitively, but also nourishes the soul. Join us in our commitment to providing quality care to those affected by Alzheimer's."
+    },
+    "about": {
+      "title": "About"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "location": "Canarias, Spain",
+      "phone": "230-112-579",
+      "email": "info@cognoar.com"
+    },
+    "copy": "Copyright © 2024 Cognoar."
+  }
+}
