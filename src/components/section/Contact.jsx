@@ -17,6 +17,7 @@ function Contact() {
       </div>
 
       <div className="grid grid-cols-1 ">
+        {/*
         <form
           method="post"
           action={`mailto:${email}?subject=subject&message=message`}
@@ -24,6 +25,14 @@ function Contact() {
         >
           <Button className="">{textButton}</Button>
         </form>
+        */}
+
+        <a
+          href="https://cognoar.blog.sistemasvirtuales.net/contacto"
+          target="blank_"
+        >
+          <Button className="">{textButton}</Button>
+        </a>
       </div>
     </section>
   );

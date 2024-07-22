@@ -1,5 +1,6 @@
 import Layout from "@/components/Layout";
 import data from "@/data.json";
+import SocialButtons from "./SocialButtons";
 
 function Footer() {
   const { brand, about, contact, copy } = data.footer;
@@ -30,12 +31,13 @@ function Footer() {
 
           <div className="flex flex-col justify-start items-start">
             <h3 className="text-[24px] font-bold mb-[32px]">{contact.title}</h3>
+            <SocialButtons />
 
-            <div className="flex flex-col gap-[12px]">
+            {/*<div className="flex flex-col gap-[12px]">
               <p className="font-thin">{contact.location}</p>
               <p className="font-thin">{contact.phone}</p>
               <p className="font-thin">{contact.email}</p>
-            </div>
+            </div> */}
           </div>
         </div>
 
